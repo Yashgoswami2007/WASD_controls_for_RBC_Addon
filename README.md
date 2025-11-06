@@ -119,18 +119,12 @@ Contributions are welcome! Here’s how you can help:
 
 ---
 
-## ⚖️ License
-
-This project is open-source under the **MIT License** — feel free to use, modify and distribute it with proper credit.
-
 ---
 
 ## 📫 Contact
 
 **Author:** Yash Goswami
 **GitHub Repo:** [WASD_controls_for_RBC_Addon](https://github.com/Yashgoswami2007/WASD_controls_for_RBC_Addon)
-**Email:** (add your email here if you like)
-
 ---
 
 > *“Making control feel natural means the user forgets the keys and simply moves.”*
